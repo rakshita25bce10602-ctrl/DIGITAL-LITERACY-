@@ -3,8 +3,8 @@ Digital literacy is the ability to use digital tools like the internet and smart
 # Digital Literacy Project
 
 ##  Student Details
-- Name: Kavya Gupta
-- Reg No: 25BCE10453
+- Name: Rakshita Ranjan 
+- Reg No: 25BCE10602
 - Branch: B.TECH CSE CORE
 - Year: 1st Year
 
